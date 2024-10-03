@@ -15,7 +15,11 @@ public class AccountTest {
 
         System.out.println(rakeshAccount.accountNumber);
 
-        accountService.issueDebitCard(rakeshAccount);
+       DebitCard debitCard= accountService.issueDebitCard(rakeshAccount);
+
+        System.out.println("fromDate "+debitCard.fromDate);
+
+        System.out.println("to date"+debitCard.toDate);
 
 
 

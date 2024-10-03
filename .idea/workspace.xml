@@ -60,7 +60,28 @@
     "last_opened_file_path": "D:/JAVA_SEPTEMBER_BATCH/JavaSeptBatch/src/main/java/org/neoteric"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DateValidationTest">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_SEPTEMBER_BATCH\JavaSeptBatch\src\main\java\org\neoteric" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.neoteric.uber" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AccountTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.neoteric.atm.AccountTest" />
+      <module name="JavaSeptBatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.neoteric.atm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.neoteric.App" />
       <module name="JavaSeptBatch" />
@@ -89,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.DateValidationTest" />
         <item itemvalue="Application.App" />
       </list>
